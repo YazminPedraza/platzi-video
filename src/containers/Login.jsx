@@ -63,7 +63,7 @@ const Login = (props) => {
           </div>
         </section>
         <p className="login__container--register">
-          No tienes ninguna cuenta <Link to="/registro">Regístrate</Link>
+          No tienes ninguna cuenta {''}<Link to="/registro">Regístrate</Link>
         </p>
       </section>
     </section>

@@ -49,6 +49,8 @@
   align-items: center;
   display: flex;
   cursor: pointer;
+  border-radius: 100%;
+  object-fit: cover;
 }
 
 .header__menu--profile img {
